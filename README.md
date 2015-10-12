@@ -1,4 +1,3 @@
-# booktest
 My Story
 ========
 
